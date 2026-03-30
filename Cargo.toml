@@ -1,6 +1,6 @@
 [package]
 name = "vinofyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Wine encyclopedia with grapes, regions, and food pairings — async API client for vinofyi.com."
